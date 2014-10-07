@@ -109,7 +109,7 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 				
 - Jeroen Van den Broeck
 	- email: jeroen.vandenbroeck@student.kdg.be
-	- GitHub: https://www.github.com/jeroenjvdb
+	- GitHub: hhttps://github.com/jeroenjvdb/web-backend-oplossingen.git
 				
 - Jonas Van Reeth
 	- email: jonas.vanreeth@student.kdg.be
